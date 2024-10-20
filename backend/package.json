@@ -1,0 +1,37 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "zeotap-task",
+    "main": "src/index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sarang-padulkar/zeotap-task.git"
+    },
+    "keywords": [
+        "Backend",
+        "Nodejs",
+        "MongoDB",
+        "Express",
+        "Mongoose",
+        "Nodemon"
+    ],
+    "author": "Sarang Padulkar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sarang-padulkar/zeotap-task/issues"
+    },
+    "homepage": "https://github.com/sarang-padulkar/zeotap-task#readme",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "mongoose": "^7.2.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.7"
+    }
+}
