@@ -3,7 +3,7 @@
 This is a web application that allows users to create and manage rules using an Abstract Syntax Tree (AST). The rules are evaluated against user attributes like age, department, income, etc., to determine eligibility. The backend is built with Node.js, Express, MongoDB Atlas, and Mongoose. The frontend uses React.js, Vite, tailwind CSS.
 
 
-###  Setting Up the Backend (Node.js + Express)
+### 1. Setting Up the Backend (Node.js + Express)
 
 1. *Navigate to the backend folder*:
 
@@ -22,7 +22,7 @@ This is a web application that allows users to create and manage rules using an 
     
    The server will start on http://localhost:3001.
 
-### 3. Setting Up the Frontend (ReactJS)
+### 2. Setting Up the Frontend (ReactJS)
 
 1. *Navigate to the frontend folder*:
 
@@ -41,3 +41,7 @@ This is a web application that allows users to create and manage rules using an 
 
    The frontend will start on http://localhost:5173.
 
+
+
+### GUI of AST Rule Engine 
+![{BACC617D-1309-45E6-923B-1241AF851BB9}](https://github.com/user-attachments/assets/854ec2ac-b4f9-4e83-9ecb-95f8fcd455dc)
